@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-A revolutionary timer to cook eggs as per your preference
+A revolutionary timer to cook eggs as per your preference.
 </p>
 
 <p align="center">
